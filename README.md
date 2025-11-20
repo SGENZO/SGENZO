@@ -6,10 +6,10 @@ PhD Candidate in Applied Mathematics · Machine Learning · Computational Physic
 </h3>
 
 <p align="center">
-  <a href="YOUR_PERSONAL_WEBSITE_URL">Website</a> •
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">Google Scholar</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL_ADDRESS">Email</a>
+  <a href="https://sgenzo.github.io">Website</a> •
+  <a href="https://scholar.google.com/citations?user=blO-mHgAAAAJ&hl=en&oi=ao">Google Scholar</a> •
+  <!-- <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • -->
+  <a href="mailto:houenze21@gscaep.ac.cn">Email</a>
 </p>
 
 ---
@@ -38,35 +38,20 @@ PhD Candidate in Applied Mathematics · Machine Learning · Computational Physic
 
 <!-- Replace the examples below with your own papers. -->
 
-- **Paper Title 1**  
-  _Author1, Author2, YOUR_NAME_  
-  Journal / arXiv:XXXX.XXXXX, YEAR  
-  [[PDF](LINK_TO_PDF)] [[Code](LINK_TO_REPO_IF_ANY)]
+- **A Global Spacetime Optimization Approach to the Real-Space Time-Dependent Schrödinger Equation**  
+  Enze Hou, Yuzhi Liu, Lei Wang*, Han Wang*  
+  Preprint / arXiv:2511.12983, 2025  
+  [[arXiv](https://arxiv.org/abs/2511.12983)]
+  <!-- [[PDF](LINK_TO_PDF)] [[Code](LINK_TO_REPO_IF_ANY)] -->
 
-- **Paper Title 2**  
-  _YOUR_NAME, Coauthor_  
-  Conference / Journal / arXiv:XXXX.XXXXX, YEAR  
-  [[PDF](LINK_TO_PDF)] [[Code](LINK_TO_REPO_IF_ANY)]
+- **Revealing the dynamic responses of Pb under shock loading based on DFT-accuracy**  
+  Enze Hou, Xiaoyang Wang, Han Wang*  
+  Journal / Chinese Physics B, 2025  
+  [[DOI](https://iopscience.iop.org/article/10.1088/1674-1056/ae1726)] 
 
-For a full list, see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL).
+<!-- For a full list, see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL). -->
 
----
-
-### 🧩 Selected projects
-
-<!-- Add 3–5 projects you want people to see first. -->
-
-- [PROJECT_NAME_1](LINK_TO_REPO_1)  
-  Short description (1–2 lines) — e.g.:
-  > Physics-informed neural network framework for solving time-dependent PDEs.
-
-- [PROJECT_NAME_2](LINK_TO_REPO_2)  
-  > Example: Differentiable solver for Schrödinger-type equations in Python.
-
-- [PROJECT_NAME_3](LINK_TO_REPO_3)  
-  > Example: Toolkit for integrating ML models into computational chemistry workflows.
-
----
+<!-- ---
 
 ### 🛠 Tech stack
 
@@ -89,21 +74,21 @@ For a full list, see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL).
 
 - Git & GitHub
 - Jupyter / VS Code / LaTeX 
-- Linux / macOS / HPC clusters / SLURM 
+- Linux / macOS / HPC clusters / SLURM  -->
 
 ---
-
+<!-- 
 ### 🧑‍🏫 Teaching & mentoring (optional)
 
 - Teaching assistant for **COURSE_NAME (CODE)** — YOUR_INSTITUTION, TERM  
   (e.g. Numerical Analysis, PDEs, Machine Learning, etc.)
 - Mentored undergraduate / master students on projects in **TOPIC_1**, **TOPIC_2**
 
----
+--- -->
 
 ### 📫 Get in touch
 
-- 📧 Email: [houenze21@gscaep.ac.cn](mailto:YOUR_EMAIL_ADDRESS)
-- 🌐 Website: [YOUR_PERSONAL_WEBSITE_URL](YOUR_PERSONAL_WEBSITE_URL)
+- 📧 Email: [houenze21@gscaep.ac.cn](mailto:houenze21@gscaep.ac.cn)
+- 🌐 Website: [https://sgenzo.github.io](https://sgenzo.github.io)
 
-Always happy to talk about applied math, PDEs, ML for science, and computational quantum chemistry.
+Always happy to talk about applied math, PDEs, strong field dynamics, AI4S, and computational quantum chemistry.
