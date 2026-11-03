@@ -1,94 +1,57 @@
 <!-- Personal GitHub Profile README -->
 
-<h1 align="center">Hi, I'm ENZO 👋</h1>
-<h3 align="center">
-PhD Candidate in Applied Mathematics · Machine Learning · Computational Physics
-</h3>
-
+<h1 align="center">Enze Hou (ENZO)</h1>
 <p align="center">
-  <a href="https://sgenzo.github.io">Website</a> •
-  <a href="https://scholar.google.com/citations?user=blO-mHgAAAAJ&hl=en&oi=ao">Google Scholar</a> •
-  <!-- <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • -->
-  <a href="mailto:houenze21@gscaep.ac.cn">Email</a>
+Postdoctoral researcher at SUTD · Computational Physics · Machine Learning
 </p>
 
----
+<p align="center">
+  <a href="https://sgenzo.github.io">Website</a> ·
+  <a href="https://sgenzo.github.io/assets/CV.pdf">CV</a> ·
+  <a href="https://scholar.google.com/citations?user=blO-mHgAAAAJ">Google Scholar</a> ·
+  <a href="https://orcid.org/0009-0002-4185-3838">ORCID</a> ·
+  <a href="mailto:enze_hou@sutd.edu.sg">Email</a>
+</p>
 
-### 🧑‍🔬 About me
+## About me
 
-- 🎓 PhD candidate in **Fundamental Mathematics** at **Institute of Applied Physics and Computational Mathematics**
-- 📚 Research areas: **AI4S**, **applied mathematics**, **machine learning**, **mathematical physics**, **PDEs**, **computational quantum chemistry**
-- 💻 Mainly work in **Python**, with a focus on **scientific computing** and **Schrödinger equation**
-- 🔍 Interested in **many-body fermions system**, **electron dynamics**, **strong field physics and ultrafast phenomena**
-- 🤝 Open to research collaborations and code contributions
+I have been a postdoctoral researcher at the **Singapore University of Technology and Design (SUTD)** since October 2026, working with PI **Dario Poletti**. I received my PhD in **Fundamental Mathematics** from the **Institute of Applied Physics and Computational Mathematics** in June 2026, advised by Han Wang and Wengu Chen.
 
----
+My research focuses on machine learning methods for multi-scale modeling, especially in **quantum many-body physics** and **ultrafast dynamics**. My interests also include **quantum simulation** and **quantum computing**. I mainly work in Python, using JAX and PyTorch for scientific computing, and welcome research collaborations and code contributions.
 
-### 🧠 Research interests
+## Research interests
 
-- **Machine learning for PDEs** (PINNs, operator learning, surrogate models)
-- **Mathematical physics** and computational methods
-- **Schrödinger equation** and quantum dynamics
-- **Many-body fermions system** (FermiNet, DeepHF, etc.)
-- **High-dimensional approximation and optimization**
+- **Quantum many-body physics and dynamics:** neural-network methods for the time-dependent Schrödinger equation and interacting quantum systems.
+- **Quantum simulation and quantum computing**, including connections to quantum many-body physics.
+- **Machine learning for PDEs and quantum chemistry:** physics-informed methods and neural-network wave functions.
+- **Machine learning potentials and multi-scale modeling:** atomistic simulations of materials under extreme conditions.
+- **Scientific computing:** Monte Carlo methods, high-dimensional approximation, optimization, and uncertainty quantification.
 
----
+## Publications
 
-### 📄 Preprints & publications
+- **Machine Learning-Based Methods for Electronic Structure Calculations**<br>
+  Mengsa Wang, **Enze Hou**, Han Wang<br>
+  *Journal on Numerical Methods and Computer Applications* **47**(2), 160–183 (2026).<br>
+  [DOI](https://doi.org/10.12288/szjs.s2025-1040)
 
-<!-- Replace the examples below with your own papers. -->
+- **A global spacetime optimization approach to the real-space time-dependent Schrödinger equation**<br>
+  **Enze Hou**, Yuzhi Liu, Linxuan Zhang, Difa Ye, Lei Wang\*, Han Wang\*<br>
+  *Machine Learning: Science and Technology* **7**(3), 035012 (2026).<br>
+  [DOI](https://doi.org/10.1088/2632-2153/ae62c8) · [arXiv](https://arxiv.org/abs/2511.12983)
 
-- **A Global Spacetime Optimization Approach to the Real-Space Time-Dependent Schrödinger Equation**  
-  Enze Hou, Yuzhi Liu, Lei Wang*, Han Wang*  
-  Preprint / arXiv:2511.12983, 2025  
-  [[arXiv](https://arxiv.org/abs/2511.12983)]
-  <!-- [[PDF](LINK_TO_PDF)] [[Code](LINK_TO_REPO_IF_ANY)] -->
+- **A Machine Learning Potential Model for Simulating Dynamic Mechanical Response of Pb-Sn Alloy**<br>
+  **Enze Hou**, Xiaoyang Wang, Han Wang<br>
+  *Chinese Journal of High Pressure Physics* **40**(1), 010106 (2026).<br>
+  [DOI](https://doi.org/10.11858/gywlxb.20251151)
 
-- **Revealing the dynamic responses of Pb under shock loading based on DFT-accuracy**  
-  Enze Hou, Xiaoyang Wang, Han Wang*  
-  Journal / Chinese Physics B, 2025  
-  [[DOI](https://iopscience.iop.org/article/10.1088/1674-1056/ae1726)] 
+- **Revealing the dynamic responses of Pb under shock loading based on DFT-accuracy machine learning potential**<br>
+  **Enze Hou**, Xiaoyang Wang, Han Wang\*<br>
+  *Chinese Physics B* **35**(1), 018701 (2026).<br>
+  [DOI](https://doi.org/10.1088/1674-1056/ae1726) · [arXiv](https://arxiv.org/abs/2511.12995)
 
-<!-- For a full list, see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL). -->
+\* Corresponding author.
 
-<!-- ---
+## Get in touch
 
-### 🛠 Tech stack
-
-**Languages**
-
-- Python / MATLAB 
-
-**Python & ML / scientific ecosystem**
-
-- NumPy · SciPy 
-- JAX / PyTorch
-
-**Math / scientific computing**
-
-- Numerical PDEs, ODE solvers, optimization
-- Linear algebra, spectral methods, variational methods
-- High-performance / parallel computing (MPI, CUDA, etc. — keep only what you do)
-
-**Tools**
-
-- Git & GitHub
-- Jupyter / VS Code / LaTeX 
-- Linux / macOS / HPC clusters / SLURM  -->
-
----
-<!-- 
-### 🧑‍🏫 Teaching & mentoring (optional)
-
-- Teaching assistant for **COURSE_NAME (CODE)** — YOUR_INSTITUTION, TERM  
-  (e.g. Numerical Analysis, PDEs, Machine Learning, etc.)
-- Mentored undergraduate / master students on projects in **TOPIC_1**, **TOPIC_2**
-
---- -->
-
-### 📫 Get in touch
-
-- 📧 Email: [houenze21@gscaep.ac.cn](mailto:houenze21@gscaep.ac.cn)
-- 🌐 Website: [https://sgenzo.github.io](https://sgenzo.github.io)
-
-Always happy to talk about applied math, PDEs, strong field dynamics, AI4S, and computational quantum chemistry.
+- Email: [enze_hou@sutd.edu.sg](mailto:enze_hou@sutd.edu.sg)
+- Website: [sgenzo.github.io](https://sgenzo.github.io)
